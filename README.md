@@ -4,7 +4,7 @@
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-## I'm a student
+## I'm a Software Engineering Greaduate
 
 - 💬 Ask me about nothing
 - 📫 Reach me at riyajohnson619@gmail.com
